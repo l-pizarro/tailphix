@@ -3,6 +3,6 @@
         <img src="banner.svg" alt="Tailphix">
     </p>
     <p align="center">
-        Aphix's components for Tailwind CSS
+        UI components for Vue with Tailwind CSS
     </p>
 </p>

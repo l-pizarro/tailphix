@@ -1,0 +1,23 @@
+{
+  "name": "tailphix",
+  "version": "0.0.1",
+  "description": "UI components for Vue with Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello from tailphix\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-pizarro/tailphix.git"
+  },
+  "keywords": [
+    "tailwind",
+    "vue"
+  ],
+  "author": "bloem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l-pizarro/tailphix/issues"
+  },
+  "homepage": "https://github.com/l-pizarro/tailphix#readme"
+}
